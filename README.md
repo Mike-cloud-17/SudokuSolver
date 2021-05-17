@@ -1,4 +1,4 @@
 # SudokuSolver
 Aplication for sudoku solving
-# Шкляр Михаил ИГоревич
-БПИ191
+# Шкляр Михаил Иuоревич
+## БПИ191
